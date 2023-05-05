@@ -1,7 +1,0 @@
-[[redirects]]
-  from = "www.mendezjw.com"
-  to = "www.jonathanwmendez.com"
-  status = 301
-  force = false
-  query = {path = ":path"}
-  conditions = {Language = ["en","es"], Country = ["US"]}
