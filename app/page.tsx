@@ -11,7 +11,7 @@ const HomePage = (props: Props) => {
       <h2 className='font-sans text-xl italic font-bold tracking-wide pt-4 pb-4'>
         This Website is Currently Under Maintenance
       </h2>
-      <a href="https://drive.google.com/file/d/1pNrkV905ibl9PD6nuS9P7cklsPtsNxc8/view?usp=share_link" target='_blank'>
+      <a href="https://drive.google.com/file/d/14HXJDcq_16h9GN4h-bIsTgytKDGKiw6F/view?usp=share_link" target='_blank'>
         <button type='button' className='bg-indigo-500 rounded-full px-2 outline outline-1 hover:outline-2 hover:bg-violet-800'>Download Resume</button>
       </a>
       
