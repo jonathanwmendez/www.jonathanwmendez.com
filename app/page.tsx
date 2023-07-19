@@ -1,6 +1,7 @@
-'use client';
+'use client'
 import React from 'react'
-import { Button, Col, Container, Row } from "react-bootstrap";
+import Header from './components/header'
+import { Button, Col, Container, Row } from 'react-bootstrap'
 
 type Props = {}
 
@@ -9,7 +10,8 @@ const HomePage = (props: Props) => {
     <Container>
       <Row>
         <Col>
-          <h1>React Bootstrap NextJS Tutorial</h1>
+          <Header />
+          <h1>H1</h1>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos
             aliquid quia optio odit nihil voluptatibus soluta labore earum
